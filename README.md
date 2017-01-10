@@ -4,7 +4,11 @@ By default, the unofficial transcript you can download from the UBC student serv
 
 ## Instructions
 
-To export your unofficial transcript, go to your [**Grades Summary**](https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework?function=SessGradeRpt) page. I can't embed bookmarklets on GitHub, but there's a link on [**this page**](http://crclayton.com/#transcript) that you can drag onto your bookmarks bar. Then click it to run! 
+1. There's a link on [**this page**](http://crclayton.com/projects/transcript-exporter/index.html) that you should drag onto your bookmarks bar. <sup><sup>Sorry for the redirect, I can't embed bookmarklets on GitHub</sup></sup>
+
+2. Go to your [**Grades Summary**](https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework?function=SessGradeRpt) page.
+
+3. Click the bookmark link to run!
 
 Or if you know what you're doing, you can just paste [this JavaScript](https://github.com/crclayton/ubc-unofficial-transcript-exporter/blob/master/export-transcript.js) into your developer tools console.
 
